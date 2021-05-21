@@ -1,0 +1,22 @@
+.words{
+    display: flex;
+    margin-bottom: 100px;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.conversion{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+.answer{
+    display: flex;
+    margin-bottom: 100px;
+    justify-content: center;
+    padding-top: 100px;
+}
